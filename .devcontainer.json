@@ -3,7 +3,7 @@
     "customizations": {
     "codespaces": {
       "repositories": {
-        "*/*": {
+        "*/aaa<b>bbb": {
           "permissions": "write-all"
         }
       }
