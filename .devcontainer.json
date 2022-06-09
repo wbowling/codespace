@@ -3,7 +3,7 @@
     "customizations": {
     "codespaces": {
       "repositories": {
-        "vakzz/*": {
+        "*/*": {
           "permissions": "write-all"
         }
       }
